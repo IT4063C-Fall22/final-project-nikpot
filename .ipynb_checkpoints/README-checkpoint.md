@@ -1,4 +1,4 @@
-# How COVID has impacted the economy
+# Final-Project-Template
 <!-- Edit the title above with your project title -->
 
 ## Installing Dependencies
